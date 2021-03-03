@@ -1,0 +1,13 @@
+E:\info\an2_info\tehniciavansate\tema1\tema1\tema1\bin\Debug\netcoreapp3.1\tema1.exe
+E:\info\an2_info\tehniciavansate\tema1\tema1\tema1\bin\Debug\netcoreapp3.1\tema1.deps.json
+E:\info\an2_info\tehniciavansate\tema1\tema1\tema1\bin\Debug\netcoreapp3.1\tema1.runtimeconfig.json
+E:\info\an2_info\tehniciavansate\tema1\tema1\tema1\bin\Debug\netcoreapp3.1\tema1.runtimeconfig.dev.json
+E:\info\an2_info\tehniciavansate\tema1\tema1\tema1\bin\Debug\netcoreapp3.1\tema1.dll
+E:\info\an2_info\tehniciavansate\tema1\tema1\tema1\bin\Debug\netcoreapp3.1\tema1.pdb
+E:\info\an2_info\tehniciavansate\tema1\tema1\tema1\obj\Debug\netcoreapp3.1\tema1.csprojAssemblyReference.cache
+E:\info\an2_info\tehniciavansate\tema1\tema1\tema1\obj\Debug\netcoreapp3.1\tema1.AssemblyInfoInputs.cache
+E:\info\an2_info\tehniciavansate\tema1\tema1\tema1\obj\Debug\netcoreapp3.1\tema1.AssemblyInfo.cs
+E:\info\an2_info\tehniciavansate\tema1\tema1\tema1\obj\Debug\netcoreapp3.1\tema1.csproj.CoreCompileInputs.cache
+E:\info\an2_info\tehniciavansate\tema1\tema1\tema1\obj\Debug\netcoreapp3.1\tema1.dll
+E:\info\an2_info\tehniciavansate\tema1\tema1\tema1\obj\Debug\netcoreapp3.1\tema1.pdb
+E:\info\an2_info\tehniciavansate\tema1\tema1\tema1\obj\Debug\netcoreapp3.1\tema1.genruntimeconfig.cache
