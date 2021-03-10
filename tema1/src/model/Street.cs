@@ -6,18 +6,31 @@ namespace tema1.src.model
 {
     class Street
     {
-        private string name;
+        public int Id { get; }
+        public string Name { get; set; }
 
-        public Street(string name)
+
+        public Street(int id, string name)
         {
+            this.Id = id;
             this.Name = name;
         }
 
-        public string Name { get => name; set => name = value; }
 
         public override string ToString()
         {
-            return name;
+            return Id + " " + Name;
+        }
+
+        public override bool Equals(object obj)
+        {
+            return obj is Street street &&
+                   Id == street.Id;
+        }
+
+        public override int GetHashCode()
+        {
+            return HashCode.Combine(Id);
         }
     }
 }
