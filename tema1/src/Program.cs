@@ -15,7 +15,13 @@ namespace tema1
             Street street = new Street("Decebal");
             Console.WriteLine(street);
 
-            Building building = new Building("Tudor Vladimirescu 23", 1950, "Public");
+            Building building = new Building
+            {
+                Address = "Tudor Vladimirescu 23",
+                Category = BuildingCategory.Public,
+                ConstructionYear = 1950
+
+            };
             Console.WriteLine(building);
 
 
